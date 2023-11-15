@@ -1,0 +1,16 @@
+from,to
+hp,hg
+hp,rw
+rw,fw
+fw,gw
+rw,gw
+hp,rw
+hp,gw
+hg,fw
+rw,hg
+hg,kr
+hp,he
+lm,s
+s,d
+lm,d
+hp,lm
